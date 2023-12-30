@@ -1,3 +1,6 @@
+![Screenshot password](https://github.com/Amankushwaha2/Random-password-generator/assets/108605279/dea83d2d-de25-45ef-9c18-7bfcdc5e2b01)
+
+
 # Random Password Generator
 
 ## Overview
