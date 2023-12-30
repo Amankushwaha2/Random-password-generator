@@ -1,7 +1,5 @@
 # Random Password Generator
 
-![Random Password Generator](link_to_project_image)
-
 ## Overview
 
 This open-source project is a Random Password Generator built using React.js, JavaScript, HTML, and CSS. The aim is to provide users with a secure and customizable tool to generate strong and unique passwords for their online accounts.
